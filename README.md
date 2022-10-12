@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DIN-GS;
 - 👀 I’m interested in programing, basketball;
-- 🌱 I’m currently learning С# and Java;
+- 🌱 I’m currently learning Java, Python and a bit C#;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nikita.ivakin@nure.ua
 

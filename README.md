@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DIN-GS;
-- 👀 I’m interested in programing, basketball;
+- 👀 I’m interested in programming and basketball;
 - 🌱 I’m currently learning Java;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nikitaivakin03@gmail.com || nikita.ivakin@nure.ua.

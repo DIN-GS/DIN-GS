@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DIN-GS;
+- 👋 Hi, I’m Nikita;
 - 👀 I’m interested in programming and basketball;
 - 🌱 I’m currently learning Java;
 - 💞️ I’m looking to collaborate on ...
